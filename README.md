@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A full-stack developer from Croatia</h3>
 
+
+<p>I have a genuine enthusiasm for learning and enjoy exploring new technologies within the field. Among the programming languages I work with, Java is my favourite, closely followed by Python and C.</p>
+<p>Below is the list of all programming languages and tools I have some experience with.</p>
+
 <p align="left">
 </p>
 
