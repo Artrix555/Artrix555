@@ -5,7 +5,7 @@
 <p>I have a genuine enthusiasm for learning and enjoy exploring new technologies within the field. Among the programming languages I work with, Java is my favourite, closely followed by Python and C.</p>
 <h3>Below is the list of all programming languages and tools I have some experience with.</h3>
 
-<p> I am have various CS50x repos but according to the rules they have to be private. </p>
+<p> I also have various CS50x repos but according to the rules they have to be private. </p>
 
 <p align="left">
 </p>
