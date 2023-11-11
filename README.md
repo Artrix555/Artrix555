@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A full-stack developer from Croatia</h3>
+<h3 align="center">Third year CS student from Croatia</h3>
 
 
 <p>I have a genuine enthusiasm for learning and enjoy exploring new technologies within the field. Among the programming languages I work with, Java is my favourite, closely followed by Python and C.</p>
